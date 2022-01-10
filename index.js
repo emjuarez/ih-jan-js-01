@@ -66,3 +66,10 @@ console.log("El gasto total fue de:",  gasto)
 const numeroDePerros = null
 console.log(numeroDePerros)
 
+//NO PRIMITIVOS
+// OBJETOS
+const comida = {
+    desayuno: "Hot Cakes",
+    comida: "Chilaquiles"
+}
+
