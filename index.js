@@ -70,6 +70,7 @@ console.log(numeroDePerros)
 // OBJETOS
 const comida = {
     desayuno: "Hot Cakes",
-    comida: "Chilaquiles"
+    comida: "Chilaquiles",
+    cena: "Quesadillas"
 }
 
